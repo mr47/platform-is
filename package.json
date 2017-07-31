@@ -1,17 +1,12 @@
 {
-  "name": "is-windows",
-  "description": "Returns true if the platform is windows.",
-  "version": "1.0.1",
-  "homepage": "https://github.com/jonschlinkert/is-windows",
-  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
-  "contributors": [
-    "Jon Schlinkert <jon.schlinkert@sellside.com> (http://twitter.com/jonschlinkert)",
-    "Simen Bekkhus <sbekkhus91@gmail.com> (https://github.com/SimenB)",
-    "刘祺 <gucong@gmail.com> (gucong.co.cc)"
-  ],
-  "repository": "jonschlinkert/is-windows",
+  "name": "platform-is",
+  "description": "Returns true if the platform is windows/linux/mac.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/mr47/platform-is",
+  "author": "Dmirty Poddubniy (https://github.com/jonschlinkert)",
+  "repository": "mr47/platform-is",
   "bugs": {
-    "url": "https://github.com/jonschlinkert/is-windows/issues"
+    "url": "https://github.com/mr47/platform-is/issues"
   },
   "license": "MIT",
   "files": [
