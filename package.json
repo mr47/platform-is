@@ -1,7 +1,7 @@
 {
   "name": "platform-is",
   "description": "Returns true if the platform is windows/linux/mac.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/mr47/platform-is",
   "author": "Dmirty Poddubniy (https://github.com/jonschlinkert)",
   "repository": "mr47/platform-is",
