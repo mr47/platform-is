@@ -1,4 +1,4 @@
-# platform-is [![NPM version](https://img.shields.io/npm/v/platform-is.svg?style=flat)](https://www.npmjs.com/package/platform-is) [![NPM monthly downloads](https://img.shields.io/npm/dm/platform-is.svg?style=flat)](https://npmjs.org/package/platform-is)  [![NPM total downloads](https://img.shields.io/npm/dt/platform-is.svg?style=flat)](https://npmjs.org/package/platform-is) [![Linux Build Status](https://img.shields.io/travis/jonschlinkert/platform-is.svg?style=flat&label=Travis)](https://travis-ci.org/jonschlinkert/platform-is)
+# platform-is [![NPM version](https://img.shields.io/npm/v/platform-is.svg?style=flat)](https://www.npmjs.com/package/platform-is) [![NPM monthly downloads](https://img.shields.io/npm/dm/platform-is.svg?style=flat)](https://npmjs.org/package/platform-is)  [![NPM total downloads](https://img.shields.io/npm/dt/platform-is.svg?style=flat)](https://npmjs.org/package/platform-is) [![Linux Build Status](https://img.shields.io/travis/mr47/platform-is.svg?style=flat&label=Travis)](https://travis-ci.org/mr47/platform-is)
 
 > Returns true if the platform is windows.
 
