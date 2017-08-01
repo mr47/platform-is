@@ -28,6 +28,8 @@
     "cywin",
     "is",
     "is-windows",
+    "is-linux",
+    "is-mac",
     "nix",
     "operating system",
     "os",
@@ -36,7 +38,9 @@
     "unix",
     "win",
     "win32",
-    "windows"
+    "windows",
+    "linux",
+    "mac"
   ],
   "verb": {
     "toc": false,
