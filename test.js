@@ -2,7 +2,7 @@
 
 require('mocha');
 var assert = require('assert');
-var isWindows = require('./');
+var isWindows = require('./').isWindows;
 var isMac = require('./').isMac;
 var isLinux = require('./').isLinux;
 
@@ -29,9 +29,9 @@ describe('isMac', function () {
 describe('isLinux', function () {
   it('should return true if the platform is linux:', function () {
     if (process && process.platform === 'linux') {
-      assert.equal(isMac(), true);
+      assert.equal(isLinux(), true);
     } else {
-      assert.equal(isMac(), false);
+      assert.equal(isLinux(), false);
     }
   });
 });
